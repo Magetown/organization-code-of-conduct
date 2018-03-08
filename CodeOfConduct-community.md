@@ -1,12 +1,12 @@
-# Dutchento Community Code of Conduct
+# MageTown Community Code of Conduct
 
 ## Purpose
-* Dutchento exists to support the local Magento users by making their lives easier, more profitable and more fun & to introduce others to our platform and community. This code of conduct outlines our expectations for community member behavior as well as the consequences for unacceptable behavior.
+* MageTown exists to support the local Magento users by making their lives easier, more profitable and more fun & to introduce others to our platform and community. This code of conduct outlines our expectations for community member behavior as well as the consequences for unacceptable behavior.
 * Diversity and inclusion make our community strong. We encourage participation from the most varied and diverse backgrounds possible and want to be very clear about where we stand.
 * Our goal is to maintain a safe, helpful and friendly community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other defining characteristic. Even people that used osCommerce or VirtueMart. It's ok, we've all been there.
 
 ## Scope
-### ...of Dutchento
+### ...of MageTown
 * Since our focus is on supporting Magento people and business in The Netherlands, which means we are usually restrictive with adding people not doing business in- or with The Netherlands. There are other community sites - like [Magento's own forums](https://community.magento.com) and [Stackexchange](http://magento.stackexchange.com) -  that are better suited for international discussions.
 * Magento experts, international speakers at our events or people outside The Netherlands doing business here will be reviewed on a case-by-case basis.
 
@@ -49,7 +49,7 @@
 
 ---
 
-*_The Dutchento Code of Conduct is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
+*_The MageTown Code of Conduct is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> 
 
