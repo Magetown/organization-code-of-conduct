@@ -1,14 +1,16 @@
-# MageTown Community Code of Conduct
+# Mage.Town Community Code of Conduct
+
+[Click here to view the general Code of Conduct](https://github.com/Magetown/organization-code-of-conduct/blob/main/CodeOfConduct-community.md)
 
 ## Purpose
-* MageTown exists to support the local Magento users by making their lives easier, more profitable and more fun & to introduce others to our platform and community. This code of conduct outlines our expectations for community member behavior as well as the consequences for unacceptable behavior.
+* Mage.Town exists to support the local Magento users by making their lives easier, more profitable and more fun & to introduce others to our platform and community. This code of conduct outlines our expectations for community member behavior as well as the consequences for unacceptable behavior.
 * Diversity and inclusion make our community strong. We encourage participation from the most varied and diverse backgrounds possible and want to be very clear about where we stand.
-* Our goal is to maintain a safe, helpful and friendly community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other defining characteristic. Even people that used osCommerce or VirtueMart. It's ok, we've all been there.
+* Our goal is to maintain a safe, helpful and friendly community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other defining characteristic. Even people that used osCommerce, VirtueMart or Shopify. It's ok, we've all been there.
 
 ## Scope
-### ...of MageTown
-* Since our focus is on supporting Magento people and business in The Netherlands, which means we are usually restrictive with adding people not doing business in- or with The Netherlands. There are other community sites - like [Magento's own forums](https://community.magento.com) and [Stackexchange](http://magento.stackexchange.com) -  that are better suited for international discussions.
-* Magento experts, international speakers at our events or people outside The Netherlands doing business here will be reviewed on a case-by-case basis.
+### ...of Mage.Town
+* We aim to be map the Magento ecosystem and facilitate you in sharing your work and finding the right business partners, jobs and events.
+* We are not aiming to duplicate existing services out there already doign a great job supporting community members. There are other community sites - like [Magento's own forums](https://community.magento.com) and [Stackexchange](http://magento.stackexchange.com) that are perfectly suited for Magento support discussions, we don't believe we are the right platform for that.
 
 ### ...of this document
 * We expect all community participants to abide by this code of conduct. 
@@ -23,7 +25,7 @@
 
 ## Unacceptable Behavior
 * Conduct or speech which might be considered sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory or offensive in nature.
-  * Do not use unwelcome, suggestive, derogatory or inappropriate nicknames or terms.
+  * Do not use unwelcome, suggestive, derogatory or inappropriate nicknames, images or terms.
   * Do not show disrespect towards others. (Jokes, innuendo, dismissive attitudes.)
 * Intimidation or harassment (online or in-person).
 * Disrespect towards differences of opinion.
@@ -33,14 +35,13 @@
 * Violence, threats of violence or violent language.
 * Agressively promote your own products or services.
 * Recruitment outside specified channels
-  * You are allowed to post jobs in 2 places: the #werk channel on slack (free) and our blog ([paid](https://www.dutchento.org/vacature-plaatsen/)). We will remove posts outside of those area's.
   * Unsolicited recruitment through DM is not accepted and will result in a ban when reported to the moderators.
 
 ## Enforcement
 * Understand that speech and actions have consequences, and unacceptable behavior will not be tolerated.
 * If violations occur, moderators will take any action they deem appropriate for the infraction, up to and including expulsion.
 * Claims in the form of "I can say anything and you cannot ban me because Free Speech" will be kindly referred to https://xkcd.com/1357.
-* If you are the subject of, or witness to any violations of this Code of Conduct, please contact the organization by submitting a form [here](https://www.dutchento.org/contact/), or email <conduct@dutchento.org> or contact us via our Slack channel with the following usernames:
+* If you are the subject of, or witness to any violations of this Code of Conduct, please contact the organization by submitting a form [here](https://mage.town/contact), or email <conduct@mage.town> or contact us via our Slack channel with the following usernames:
 
     **Guido Jansen** - @guido<br/>
     **Sander Mangel** - @sandermangel<br/>
@@ -49,7 +50,7 @@
 
 ---
 
-*_The MageTown Code of Conduct is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
+*_The Mage.Town Code of Conduct is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> 
 
