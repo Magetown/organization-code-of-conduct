@@ -43,8 +43,8 @@
 * Claims in the form of "I can say anything and you cannot ban me because Free Speech" will be kindly referred to https://xkcd.com/1357.
 * If you are the subject of, or witness to any violations of this Code of Conduct, please contact the organization by submitting a form [here](https://mage.town/contact), or email <conduct@mage.town> or contact us via our Slack channel with the following usernames:
 
-    **Guido Jansen** - @guido<br/>
-    **Sander Mangel** - @sandermangel<br/>
+    **[Guido Jansen](https://mage.town/profile/guido-jansen-1520613543213x121079299133270980)** - @guido<br/>
+    **[Sander Mangel](https://mage.town/profile/sander-mangel-1520665125762x552425872767344100)** - @sandermangel<br/>
  
 *Portions derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), [The Citizen Code of Conduct](http://citizencodeofconduct.org/), [The Rust Code of Conduct](https://www.rust-lang.org/conduct.html), [Open Source Bridge](http://opensourcebridge.org/about/code-of-conduct/) and [The Ada Initiative](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).*
 
