@@ -37,6 +37,17 @@
 * Recruitment outside specified channels
   * Unsolicited recruitment through DM is not accepted and will result in a ban when reported to the moderators.
 
+## Guidelines for adding content
+### Company profiles
+* Only add companies that provide services directly to Magento merchants.
+
+### Shop/Merchant profiles
+* The website should run on Magento software (regardles of version or edition)
+* The URL and screenshot should directly link to the Magento shop. So if their is a diffrent platform on www. and the magento installation is on /shop or shop., point the URL there directly, not to the www.
+* only add URLs on which Magento runs. Don't add all the URLs redirecting to the Magento shop.
+* If your webshop has different store views for different audiences (client segments or different countries) you can add those too, preferably always mentioning "sister shops" in the shop description.
+* Only one shop per (cc)TLD. 
+
 ## Enforcement
 * Understand that speech and actions have consequences, and unacceptable behavior will not be tolerated.
 * If violations occur, moderators will take any action they deem appropriate for the infraction, up to and including expulsion.
