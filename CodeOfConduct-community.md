@@ -47,6 +47,7 @@
 * only add URLs on which Magento runs. Don't add all the URLs redirecting to the Magento shop.
 * If your webshop has different store views for different audiences (client segments or different countries) you can add those too, preferably always mentioning "sister shops" in the shop description.
 * Only one shop per (cc)TLD. 
+* no demo/development/staging shops
 
 ## Enforcement
 * Understand that speech and actions have consequences, and unacceptable behavior will not be tolerated.
